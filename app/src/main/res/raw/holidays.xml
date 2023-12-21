@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<holiday>
+    <name>День семьи, любви и верности</name>
+    <date>2023-07-08</date>
+    <description>Праздник, посвященный семейным ценностям и любви.</description>
+</holiday>
+
+<holiday>
+    <name>День работников образования</name>
+    <date>2023-10-05</date>
+    <description>Праздник, посвященный педагогам и работникам образования.</description>
+</holiday>
+
+<holiday>
+    <name>День города</name>
+    <date>2023-09-12</date>
+    <description>Праздник, отмечаемый в честь города и его истории.</description>
+</holiday>
+
+<holiday>
+    <name>День программиста</name>
+    <date>2023-09-13</date>
+    <description>Праздник, посвященный специалистам в области программирования.</description>
+</holiday>
+
+<holiday>
+    <name>День химика</name>
+    <date>2023-05-27</date>
+    <description>Праздник, отмечающий достижения в области химии и науки.</description>
+</holiday>
+
+<holiday>
+    <name>День медицинского работника</name>
+    <date>2023-06-21</date>
+    <description>Праздник, посвященный труду и заботе медицинских работников.</description>
+</holiday>
+
+<holiday>
+    <name>День знаний</name>
+    <date>2023-09-01</date>
+    <description>Праздник, отмечаемый в начале учебного года.</description>
+</holiday>
+
+<holiday>
+    <name>День металлурга</name>
+    <date>2023-07-20</date>
+    <description>Праздник, посвященный работникам металлургической промышленности.</description>
+</holiday>
+
+<holiday>
+    <name>День кино</name>
+    <date>2023-08-27</date>
+    <description>Праздник, отмечаемый в честь искусства кино и кинематографа.</description>
+</holiday>
+
+<holiday>
+    <name>День бухгалтера</name>
+    <date>2023-11-21</date>
+    <description>Праздник, посвященный специалистам в области бухгалтерии и финансов.</description>
+</holiday>
